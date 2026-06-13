@@ -24,5 +24,4 @@ Practice SQL queries using the Northwind database in PostgreSQL.
 - Dataset: Northwind Database
 
 ## Author
-Abdihafid Hilowle Hassan
-J.Data Engineering.
+Abdihafid Hilowle Hassan | Aspiring Data Engineer 
